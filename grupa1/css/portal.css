@@ -1,0 +1,106 @@
+body
+{
+    font-family: 'Roboto', sans-serif;
+    color: #0396A6;
+    background-color: #fff;
+}
+.container
+{
+        width: 96%
+        padding: 0 2%;
+        margin: 0 auto
+}
+.info, .categories, .authors, .contact, .university {
+    padding: 50px 0px;
+}
+.info
+{
+    background-color: #9F2CC2
+}
+.info .title
+{
+    font-weight: 700;
+    font-size: 72px
+}
+.info .description
+{
+    line-height: 26px;
+    
+}
+.info .motto
+{
+    font-weight: bold;
+    font-style: italic;
+}
+.categories
+{
+    background-color: :#0396A6;
+}
+.categories .glyphicon
+{
+    font-size:  52px;
+    color: black;
+}
+.categories .glyphicon:hover
+{
+    font-size: 58px;
+    text-shadow: 0 0 15px #333;
+    transition: 0.5s;
+}
+.frame
+{
+    width: 60px;
+    height: 60px;
+    margin: 0 auto;
+}
+.authors
+{
+    background-color: #04BFBF
+}
+.authors h2
+{
+    font-size: 36px;
+    font-weight: 700;
+}
+.authors p
+{
+    font-size: 16px;
+    font-style: italic;
+    padding 30px 2%;
+}
+.authors .carousel .carusel-indicators
+{
+    left 0;
+    margin-left: 0;
+    width: 100%;
+    text-align: right;
+    bottom: 0;
+}
+.carousel-indicators .li
+{
+    width: 15px;
+    height: 16px;
+    background: white;
+}
+.carousel-indicators .active
+{
+    width: 15px;
+    height: 16px;
+    background: black;
+    border: 3px solid #fff;
+}
+.contact
+{
+    background-color: #01EAFF;
+    color: #fff
+}
+.contact .btn
+{
+    background-color: #01EAFF
+        color: #04BFBF
+}
+.university
+{
+    background-color: #01EAFF;
+    color: #fff
+}

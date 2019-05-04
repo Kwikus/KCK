@@ -1,0 +1,22 @@
+Rozwiązuj z nami swoje problemy ze sprzętem i oprogramowaniem. Doskonal się w trudnej sztuce programowania. Rozwijaj się i pomagaj innym. Poświęć &frac12; godziny dziennie na zgłębianie tajników informatyki. Zapraszamy każdego.
+
+Wiadomości
+Najświeższe wiadomości i informacje z dziedziny informatyki. Coś dla programistów i zwykłych użytkowników komputerów, tabletów oraz smartfonów.
+Artykuły
+Artykuły w naszym serwisie pisane są przez wybitnych znawców tematu, którzy z olbrzymią przenikliwością zgłebiają każdy temat.
+Testy
+Nasze laboratorium testuje dla Was najnowszy sprzęt, poddając go elektronicznym torturom i wyciskając siódme poty elektronów.
+Porady
+Jeżeli wciąż masz problemy z obsługą komputerów lub chcesz pracować efektywnie zajrzyj do sekcji z poradami dla adminów i laików.
+Tutoriale
+W tutorialach opisujemy krok po kroku w jaki sposób rozwiązać zadania programistyczne praktycznie z każdej dziedziny.
+Recenzje
+Czytamy najciekawsze książki informatyczne i gramy dla Was w najnowsze gry, aby później opisać je dokładnie w tym dziale.
+
+Twórcy portalu
+Z portalem współpracują uznani programiści oraz studenci, którzy chcą rozwijać swoje umiejętności i zdobywać doświadczenie praktyczne. Dołącz do naszego zespołu!
+Piotr
+Wszechstronny programista aplikacji sieciowych i internetowych. W portfolio ma kilka ciekawych projektów zrealizowanych dla firm z branży finansowej. Współpracuje z innowacyjnymi startupami.
+Anna
+Doświadczona programistka i projektantka stron internetowych oraz uznana blogierka. Specjalizuje się w HTML5, CSS3, JavaScript, jQuery i Bootstrap. Obecnie pracuje nad nowymi rozwiązaniami dla graczy.
+
